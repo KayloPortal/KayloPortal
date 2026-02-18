@@ -1,6 +1,6 @@
 # Hi, I'm Parsa 👋 
 
-### CS Student | AI Research Enthusiast | Former Frontend Learner
+### CSE Student | AI Research Enthusiast | Former Frontend Learner
 
 I am a second-semester Computer Science student based in Shiraz. After spending ~1.5 years learning the ins and outs of Frontend Development (React/JS), I realized my true passion lies in the math and logic of **Artificial Intelligence**. 
 
