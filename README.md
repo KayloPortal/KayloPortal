@@ -24,9 +24,9 @@ I am currently exploring **Regression Analysis** and **Noise reduction** in data
 ---
 
 ## 🛠️ Tech Arsenal
-* **Core:** Python, C++, SQL.
+* **Core:** Python.
 * **AI/ML:** Scikit-Learn, Pandas, NumPy, Matplotlib.
-* **Web Legacy:** JavaScript, React.js, Tailwind CSS (I still use these to visualize my data!).
+* **Web Legacy:** JavaScript, React.js, CSS (I still use these to visualize my data!).
 
 ---
 
