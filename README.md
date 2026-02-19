@@ -1,37 +1,27 @@
-# Hi, I'm Parsa 👋 
+# Hi there, I'm Parsa Mahmoodi 👋
 
-### CSE Student | AI Research Enthusiast | Former Frontend Learner
+**Computer Science Student | Aspiring AI Researcher | Predictive Modeling & Optimization**
 
-I am a second-semester Computer Science student based in Shiraz. After spending ~1.5 years learning the ins and outs of Frontend Development (React/JS), I realized my true passion lies in the math and logic of **Artificial Intelligence**. 
+I am a second-semester CS student deeply passionate about Artificial Intelligence, specifically the mathematics and theory behind Machine Learning models. While I began my coding journey building front-end applications, my current focus is entirely on algorithms, data science, and AI research. 
 
-I am now dedicating my full focus to Machine Learning, bringing the coding discipline I learned from web dev into my research code.
+I believe in understanding the *why* behind the code, not just the *how*.
 
----
+### 🔬 Current Focus & Research Interests
+* **Machine Learning:** Currently exploring the Bias-Variance tradeoff, high-dimensional feature selection, and optimization limits in linear and polynomial models.
+* **Data Engineering:** Learning how to handle highly noisy datasets using advanced encoding techniques (like Cyclical/Trigonometric encoding) and L1/L2 Regularization.
 
-## 🚀 The Transition
-* **Past:** ~15 months of self-taught Frontend Development. I learned how to structure code, manage state (React), and build clean UIs.
-* **Present:** Applying that structured thinking to **Data Science & ML**. I don't just want to run models; I want to understand the *why* behind the weights.
+### 🛠️ Tech Stack & Tools
+* **AI & Data Science:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib
+* **Core Languages:** C++, Python, JavaScript (Legacy Front-End Projects)
+* **Concepts:** Linear Regression (OLS, Ridge, Lasso), Polynomial Expansion, Cross-Validation, Feature Engineering
 
----
+### 📊 Featured Projects
+* **[Appliances Energy Prediction](https://github.com/KayloPortal/kaggle_appliances_energy_prediction):** A study analyzing the mathematical limits of linear models on highly noisy data. Features deep dives into Duality Gaps, the Curse of Dimensionality, and Lasso/Ridge hyperparameter stalemates.
+* **[California Housing Price](https://github.com/KayloPortal/California_Housing_Price):** End-to-end regression model pipeline for predictive housing price analysis.
+* **[CodeForces Solutions](https://github.com/KayloPortal/CodeForcesRepo):** My personal repository of C++ algorithmic problem-solving.
 
-## 🔬 Current Research Focus
-I am currently exploring **Regression Analysis** and **Noise reduction** in datasets.
-* **[Kaggle: Appliances Energy Prediction](https://github.com/KayloPortal/kaggle_appliances_energy_prediction)**
-    * **The Challenge:** A high-noise dataset where standard regression fails.
-    * **The Solution:** Implemented **Ridge Regression** with **Trigonometric Feature Encoding** to capture cyclical patterns (time of day/week).
-    * **Key Finding:** Achieved a balance between bias and variance, prioritizing stability over raw training accuracy.
-
----
-
-## 🛠️ Tech Arsenal
-* **Core:** Python.
-* **AI/ML:** Scikit-Learn, Pandas, NumPy, Matplotlib.
-* **Web Legacy:** JavaScript, React.js, CSS (I still use these to visualize my data!).
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/mohammadmahmoodi](https://linkedin.com/in/mohammadmahmoodi)
+* **Email:** mohammad.mahmoodi.cs@gmail.com
 
 ---
-
-## 📈 Let's Connect
-* **LinkedIn:** [in/mohammadmahmoodi](https://www.linkedin.com/in/mohammadmahmoodi)
-* **GitHub:** @KayloPortal
-
-*"From building pixels to predicting patterns."*
