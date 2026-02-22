@@ -1,4 +1,4 @@
-# Hi there, I'm Parsa Mahmoodi 👋
+# Hello, I'm Parsa Mahmoodi 👋
 
 **Computer Science Student | Aspiring AI Researcher | Predictive Modeling & Optimization**
 
