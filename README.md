@@ -1,10 +1,8 @@
-# I'm Mohammad(Parsa) Mahmoodi
+# I'm Mohammad (Parsa) Mahmoodi
 
 **Computer Science Student | Interested in AI Research**
 
-I am a second-semester CS student passionate about Artificial Intelligence, specifically the mathematics and theory behind Machine Learning models. While I began my coding journey building front-end applications, my current focus is entirely on mathematic, algorithms, data science, and AI research. 
-
-I believe in understanding the *why* behind the code, not just the *how*.
+I am a second-semester CS student passionate about Artificial Intelligence, specifically the mathematics and theory behind Machine Learning models. While I began my coding journey building front-end applications during highschool, my current focus is entirely on mathematic, algorithms, data science, and AI research. 
 
 ### 🔬 Currently Studying/Learning
 * **Probability & Statistics: **Currently studying Dr. SharifiZarchi's course on Probability & Statistics
