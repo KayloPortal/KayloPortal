@@ -15,8 +15,8 @@ I am a second-semester CS student passionate about Artificial Intelligence, spec
 * **Core Languages:** C++, Python, JavaScript (Legacy Front-End Projects)
 
 ### 📊 Recent Projects
-* **[Appliances Energy Prediction](https://github.com/KayloPortal/kaggle_appliances_energy_prediction):** A study analyzing the mathematical limits of linear models on highly noisy data. Features deep dives into Duality Gaps, the Curse of Dimensionality, and Lasso/Ridge hyperparameter stalemates.
-* **[California Housing Price](https://github.com/KayloPortal/California_Housing_Price):** End-to-end regression model pipeline for predictive housing price analysis.
+* **[Appliances Energy Prediction](https://github.com/KayloPortal/kaggle_appliances_energy_prediction):** An ablation study analyzing the mathematical limits of linear models on highly noisy data. Features deep dives into Duality Gaps, the Curse of Dimensionality, and Lasso/Ridge hyperparameter stalemates, explaining model's behaviors etc.
+* **[California Housing Price](https://github.com/KayloPortal/California_Housing_Price):** Regression model to predict housing price.
 * **[CodeForces Solutions](https://github.com/KayloPortal/CodeForcesRepo):** My personal repository of C++ algorithmic problem-solving.
 
 ### 📫 Contact Info
