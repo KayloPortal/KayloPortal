@@ -5,8 +5,8 @@
 I am a second-semester CS student passionate about Artificial Intelligence, specifically the mathematics and theory behind Machine Learning models. While I began my coding journey building front-end applications during highschool, my current focus is entirely on mathematic, algorithms, data science, and AI research. 
 
 ### 🔬 Currently Studying/Learning
-* **Probability & Statistics: ** Currently studying Dr. SharifiZarchi's course on Probability & Statistics
-* **Linear Algebra: ** Strang's course on Lienar Algebra
+* **Probability & Statistics:** Currently studying Dr. SharifiZarchi's course on Probability & Statistics
+* **Linear Algebra:** Strang's course on Linear Algebra
 * **Machine Learning:** Bias-Variance tradeoff, high-dimensional feature selection, and optimization limits in linear and polynomial models.
 * **Data Engineering:** Learning how to handle highly noisy datasets using advanced encoding techniques (like Cyclical/Trigonometric encoding) and L1/L2 Regularization.
 
