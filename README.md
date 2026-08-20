@@ -1,6 +1,6 @@
 # I'm Mohammad (Parsa) Mahmoodi
 ### Profile summary
-I am a second semester CS student at Shiraz university. I am interested in the fields *AI Research* & *Computer Vision* and currently building my foundation to enter the field as a junior.
+I am a second semester CS student at Shiraz university. I am interested in the fields *Machine Learning/Deep Learning* & *Computer Vision* and currently building my foundation to enter the field as a junior.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -20,6 +20,7 @@ I am a second semester CS student at Shiraz university. I am interested in the f
 * **Pytorch**
 * **Probability & Statistics** Dr. SharifiZarchi's course
 * **Linear Algebra:** Professor Strang's MIT 18.06 course
+* **PyTorch Basics**
 * **Machine Learning Basics** Core theories, e.g. Bias-Variance tradeoff, Loss Function Optimization, L1/L2 regularization, Encoding techniques, etc.
 
 ### 📫 Contact Info
