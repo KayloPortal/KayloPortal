@@ -1,11 +1,11 @@
 # I'm Mohammad (Parsa) Mahmoodi
 ### Profile summary
-I am a second semester CS student at Shiraz university. I am interested in the fields *Machine Learning/Deep Learning* & *Computer Vision* and currently building my foundation to enter the field as a junior.
+Third Semester CSE student at Shiraz university.
 
 ### 🛠️ Tech Stack & Tools
 
-* **AI & Data Science:** Scikit-Learn, Pandas, NumPy, Matplotlib
-* **Core Languages:** Python, C/C++, JavaScript (Legacy Front-End Projects)
+* **AI & Data Science:** Familiar with Scikit-Learn, Pandas, NumPy, Matplotlib
+* **Core Languages:** Python, C/C++
 
 ### 📊 Recent Projects
 
@@ -20,16 +20,9 @@ I am a second semester CS student at Shiraz university. I am interested in the f
 * **Pytorch**
 * **Probability & Statistics** Dr. SharifiZarchi's course
 * **Linear Algebra:** Professor Strang's MIT 18.06 course
-* **PyTorch Basics**
 * **Machine Learning Basics** Core theories, e.g. Bias-Variance tradeoff, Loss Function Optimization, L1/L2 regularization, Encoding techniques, etc.
 
 ### 📫 Contact Info
 
 * **LinkedIn:** [linkedin.com/in/mohammadmahmoodi](https://linkedin.com/in/mohammadmahmoodi)
 * **Email:** mohammad.mahmoodi.cs@gmail.com
-
-### 🔰 Other/Non-Related Skills/Background
-
-I used to code Front-End with Javascript when I was at high school. Not a job, but I was a self-taught learner, I built some foundational programming and design skills, along with self-learning habits. When I began my first semester at computer science and got familiar with various fields, I realized I am more interested in AI and deep learning. Hence, I abandoned *Software Engineering* and put my entire focus and effort on Deep learning and Math.
-
----
