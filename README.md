@@ -1,4 +1,5 @@
-# I'm Mohammad (Parsa) Mahmoodi
+# Mohammad (Parsa) Mahmoodi
+
 ### Profile summary
 Third Semester CSE student at Shiraz university.
 
