@@ -1,11 +1,11 @@
 # Mohammad (Parsa) Mahmoodi
 
 ### Profile summary
-Third Semester CSE student at Shiraz university.
+Third Semester CSE student at Shiraz university. Interested in AI inference, AI infrastructure, AI systems & optimization.
 
 ### 🛠️ Tech Stack & Tools
 
-* **AI & Data Science:** Familiar with Scikit-Learn, Pandas, NumPy, Matplotlib
+* **AI & ML:** Familiar with Scikit-Learn, Pandas, NumPy, Matplotlib
 * **Core Languages:** Python, C/C++
 
 ### 📊 Recent Projects
@@ -14,14 +14,6 @@ Third Semester CSE student at Shiraz university.
 
 * **[California Housing Price](https://github.com/KayloPortal/California_Housing_Price):** Regression model to predict housing price.
 
-
-
-### 🔬 Currently Studying/Learning
-
-* **Pytorch**
-* **Probability & Statistics** Dr. SharifiZarchi's course
-* **Linear Algebra:** Professor Strang's MIT 18.06 course
-* **Machine Learning Basics** Core theories, e.g. Bias-Variance tradeoff, Loss Function Optimization, L1/L2 regularization, Encoding techniques, etc.
 
 ### 📫 Contact Info
 
